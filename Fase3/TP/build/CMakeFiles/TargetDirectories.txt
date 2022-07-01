@@ -1,0 +1,4 @@
+/home/persa/Desktop/Universidade/3ºano/CG/TP/build/CMakeFiles/rebuild_cache.dir
+/home/persa/Desktop/Universidade/3ºano/CG/TP/build/CMakeFiles/edit_cache.dir
+/home/persa/Desktop/Universidade/3ºano/CG/TP/build/CMakeFiles/engine.dir
+/home/persa/Desktop/Universidade/3ºano/CG/TP/build/CMakeFiles/gen.dir

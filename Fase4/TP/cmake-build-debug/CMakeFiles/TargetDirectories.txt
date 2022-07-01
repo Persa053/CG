@@ -1,0 +1,4 @@
+/home/persa/Desktop/Fase4/TP/cmake-build-debug/CMakeFiles/gen.dir
+/home/persa/Desktop/Fase4/TP/cmake-build-debug/CMakeFiles/engine.dir
+/home/persa/Desktop/Fase4/TP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/persa/Desktop/Fase4/TP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
